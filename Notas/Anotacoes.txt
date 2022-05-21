@@ -1,0 +1,12 @@
+Comandos utilizados para a criação deste repositório
+
+- git clone https://github.com/patriciatayna/DIO_Bootcamp_GFT_Start_5_Desafio_Git_GitHub.git
+
+- git add .
+
+- git commit -m "Inclusao das notas do curso"
+
+- git push origin main
+
+
+
